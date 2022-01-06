@@ -2,7 +2,7 @@
 
 ## Contexte
 
-L’Organisation nationale de lutte contre le faux-monnayage (ONCFM) a pour bojectif de mettre en place "Lapage" est une grande librairie avec plusireurs points de vente physique. Suite à son succès, elle a décidé depuis 2 ans d'ouvrir un site de vente en ligne.
+L’Organisation nationale de lutte contre le faux-monnayage (ONCFM) a pour objectif de mettre en place "Lapage" est une grande librairie avec plusireurs points de vente physique. Suite à son succès, elle a décidé depuis 2 ans d'ouvrir un site de vente en ligne.
 
 Dans ce projet, notre mission est d'analyser les points forts et faibles du e-commerce ainsi que les comportements clients.
 
